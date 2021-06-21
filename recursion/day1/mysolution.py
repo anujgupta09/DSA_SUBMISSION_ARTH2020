@@ -25,3 +25,6 @@ def productsum(array,depth=2):
     return (sum)
 productsum([5,2,[7,1],3,[6,[13,[6,7],8],4]])   # calling
 
+############## q3 
+#permutation completely bouncer for me im trying to do it without seeing the solution 
+
